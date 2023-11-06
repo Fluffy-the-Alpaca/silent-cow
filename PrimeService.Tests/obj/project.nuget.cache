@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDSCfiBTWkKtRkXipW5fxmYZwcHhQkptKauh7ZcwCSkGGSCATGvRt87v7UuL/I9sMrxYQCWt203xHzYMvoHRKA==",
+  "dgSpecHash": "HTU6Y7iehxci4nf0rHCqphWgmemHXVyHQ+7i6vxcthBjfYziA3UdlyuxwqpavH5tDmK0n1B54TkF2oWDxd3+YQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jernh\\work\\software-security\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
+  "projectFilePath": "C:\\Users\\jernh\\work\\software-security\\silent.cow\\PrimeService.Tests\\PrimeService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jernh\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\jernh\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

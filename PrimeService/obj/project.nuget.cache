@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C0CsHeaugMwRjrMzuaePftSag+FW/v6gNCOHBxBc2xwK6+d0jaOLSSqxtz3NTtKnrQLO5fdIPcckSXb2QPPTCw==",
+  "dgSpecHash": "mNUyQP+bVTgmP3YCGJE1QcDYtH9BGAar7VSP5ZwpVJsuZ+bQbsYE8SRsLiTQkv+vhf4f8e2FWjoqjmnQXBUxUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jernh\\work\\software-security\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+  "projectFilePath": "C:\\Users\\jernh\\work\\software-security\\silent.cow\\PrimeService\\PrimeService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
