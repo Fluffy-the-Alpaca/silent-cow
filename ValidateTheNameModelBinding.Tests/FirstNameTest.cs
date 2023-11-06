@@ -16,7 +16,7 @@ public class FirstNameTest
   [Theory]
   [InlineData("")]
   [InlineData("123")]
-  [InlineData("æøå")]
+  [InlineData("ï¿½ï¿½ï¿½")]
   [InlineData("<>'/")]
   public void NameCharacterTest(string name)
   {
